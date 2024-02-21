@@ -1,0 +1,20 @@
+{
+    "openapi": "3.0.2",
+    "info": {
+        "title": "snxx-trainer",
+        "version": "1.0.0"
+    },
+    "servers": [
+        {
+            "url": "http:\/\/localhost:8000"
+        }
+    ],
+    "paths": {
+        "\/api\/autores": {
+            "get": {
+                "summary": "Lista de autores.",
+                "description": "..."
+            }
+        }
+    }
+}
